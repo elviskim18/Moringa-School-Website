@@ -17,6 +17,15 @@ nav{
 nav :nth-child(4){
     margin-left: 28px;
 }
+button{
+    display: inline-flex;
+    margin-left: 28px;
+    border: none;
+    background-color: #EC4067;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: white;
+}
  .container{
     margin: 0px;
     margin-left: 80px;
