@@ -24,6 +24,7 @@
  .Stories img{
      float: left;
      width: 300px;
+     margin-right: 250px;
      
      
  }
@@ -48,5 +49,6 @@
  .Graduation img{
      float: left;
      width: 300px;
+     margin-right: 250px;
      
  }
