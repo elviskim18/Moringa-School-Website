@@ -1,4 +1,22 @@
-
+.first-word{
+    color: #EC4067;
+}
+.header{
+    margin: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.logo{
+    font-size: 30px;
+    width: 200px;
+    margin-top: 30px;
+}
+nav{
+    display: inline-block;
+}
+nav :nth-child(4){
+    margin-left: 28px;
+}
  .container{
     margin: 0px;
     margin-left: 80px;
