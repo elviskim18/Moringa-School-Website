@@ -26,17 +26,17 @@
      width: 300px;
      
      
-     
  }
 
  .Board{
      margin: 0px;
      margin-top: 80px;
+     height: 300px;
      
  }
 
  .Board img{
-    display: inline-block;
+    float: right;
      width: 300px;
      
 
