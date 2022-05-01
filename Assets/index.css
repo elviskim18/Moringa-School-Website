@@ -81,9 +81,12 @@ button{
      
  }
  .Team{
-     display: block;
+     
  }
  .tms{
      display: inline-block;
      
+ }
+ .tms img{
+     width: 300px;
  }
