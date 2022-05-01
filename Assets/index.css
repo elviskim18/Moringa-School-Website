@@ -110,7 +110,7 @@ button{
      height: 150px;
  }
  .adjust{
-     height: 300px;
+     
      margin-top: 50px;
  }
  .bike{
@@ -123,4 +123,11 @@ button{
     float: right;
     width: 500px;
     padding-left: 50px;
+}
+.id{
+    margin-top: 50px;
+
+}
+.enroll{
+    margin-top: 150px;
 }
