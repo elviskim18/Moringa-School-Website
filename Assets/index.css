@@ -109,8 +109,12 @@ button{
      margin-top: 150px;
      height: 150px;
  }
+ .adjust{
+     display: inline-block;
+     margin-top: 50px;
+ }
  .bike{
-     display: block;
+     margin: 0px;
  }
 .bike img{
     float: right;
