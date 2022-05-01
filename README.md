@@ -50,7 +50,7 @@ https://github.com/elviskim18/Moringa-School-Website.git
 #### live link
    - click the following link to view the application
 
-    
+https://elviskim18.github.io/Moringa-School-Website/
 ***
 ## How to use the project
 
