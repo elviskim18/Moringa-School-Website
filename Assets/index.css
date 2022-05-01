@@ -105,3 +105,15 @@ button{
      position: relative;
      text-align: center;
  }
+ .Project{
+     margin-top: 150px;
+     height: 150px;
+ }
+ .bike{
+     display: block;
+ }
+.bike img{
+    float: right;
+    width: 300px;
+    height: 250px;
+}
