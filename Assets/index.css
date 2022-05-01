@@ -110,14 +110,17 @@ button{
      height: 150px;
  }
  .adjust{
-     display: inline-block;
+     height: 300px;
      margin-top: 50px;
  }
  .bike{
      margin: 0px;
+     display:inline-block;
+     
+     
  }
 .bike img{
     float: right;
-    width: 300px;
-    height: 250px;
+    width: 500px;
+    padding-left: 50px;
 }
