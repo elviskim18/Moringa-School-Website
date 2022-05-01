@@ -80,4 +80,10 @@ button{
      margin-right: 22px;
      
  }
- 
+ .Team{
+     display: block;
+ }
+ .tms{
+     display: inline-block;
+     
+ }
