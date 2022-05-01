@@ -5,14 +5,20 @@
     margin: 0px;
     margin-left: 40px;
     margin-right: 40px;
+    display: block;
+    
 }
 .logo{
     font-size: 30px;
     width: 200px;
     margin-top: 30px;
+    display: inline-block;
 }
 nav{
+    padding-left: 60%;
     display: inline-block;
+    
+    
 }
 nav :nth-child(4){
     margin-left: 28px;
@@ -34,7 +40,8 @@ button{
 
  .nuturing{
      margin: 0px;
-     margin-top: 120px;
+     margin-top: 100px;
+     height: 250px;
      
  }
 
@@ -47,6 +54,7 @@ button{
  .Stories{
      margin: 0px;
      
+     
  }
  .orientation img{
      float: left;
@@ -58,8 +66,8 @@ button{
 
  .Board{
      margin: 0px;
-     margin-top: 80px;
-     height: 220px;
+     margin-top: 150px;
+     height: 250px;
      
  }
 
@@ -71,7 +79,7 @@ button{
  }
  .Graduation{
      margin: 0px;
-     margin-top: 80px;
+     margin-top: 100px;
      height: 250px;
  }
  .Graduation img{
