@@ -83,10 +83,17 @@ button{
  .Team{
      margin: 10px;
  }
+ .mentors{
+     display: block;
+ }
  .tms{
      display: inline-block;
      
  }
  .tms img{
      width: 300px;
+ }
+ .capt{
+     position: relative;
+     text-align: center;
  }
