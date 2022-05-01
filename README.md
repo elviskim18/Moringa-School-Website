@@ -39,7 +39,7 @@ change directory using command
 
 #### method two
  - run the following live link in your browser 
-=======
+https://elviskim18.github.io/Moringa-School-Website/
 #### clone repo 
 * clone the repo using the command: git clone
 https://github.com/elviskim18/Moringa-School-Website.git
